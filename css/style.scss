@@ -1,5 +1,11 @@
 @import 'inc/reset.scss';
 @import 'inc/sticky-footer.scss';
+@import 'inc/menu.scss';
 body {
     background:#666;
+}
+
+.main {
+    background:blue;
+    margin: 0 8%;
 }
